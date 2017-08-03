@@ -8,9 +8,8 @@ a way to analyze the odds of a system giving a certain result. Because I don't h
 
 Okay, so I didn't realy know what I was doing when I started this, but as it turns out, there's a word for what I'm making: A [Bayesian Network solver](https://en.wikipedia.org/wiki/Bayesian_network) based off the [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method) The node network is a [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
-I hope to implement this using the Boost::Graph library, but my code doesn't reflect that at the moment. It's still a variant that was going to use my own implementation of the Coffman-Graham algorithm. Before that, I was hoping to get away with using a basic tree, or random walk. Which didn't work at all.
+I'm hoping to implement it using a boost graph library adjacency list. Function prototypes should be up soon. I switched to cmake for portability, and more importantly, because it (should) integrate better with the vim plugins I'm using, and can locate boost quickly and efficiently.
 
-[at the risk of seeming unprofessional](http://i.imgur.com/USmiwaf.jpg)
 
 
 ## History of this idea

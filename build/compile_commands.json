@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tristan/projects/probability-tester/build",
+  "command": "/usr/bin/c++      -o CMakeFiles/Main.dir/main.cpp.o -c /home/tristan/projects/probability-tester/main.cpp",
+  "file": "/home/tristan/projects/probability-tester/main.cpp"
+}
+]

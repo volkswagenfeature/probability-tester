@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tristan/projects/probability-tester/lib/fail-funcs.h
+
+/home/tristan/projects/probability-tester/lib/prob-node.h
+boost/graph/adjacency_list.hpp
+-
+
+/home/tristan/projects/probability-tester/main.cpp
+lib/prob-node.h
+/home/tristan/projects/probability-tester/lib/prob-node.h
+lib/fail-funcs.h
+/home/tristan/projects/probability-tester/lib/fail-funcs.h
+
