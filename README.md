@@ -1,6 +1,6 @@
 # Monte Carlo Probability Tester
 Author: John Tristan Ritland
-Version: v0.2
+Version: v0.3
 
 a way to analyze the odds of a system giving a certain result. Because I don't have time to actualy teach myself statistics.
 
